@@ -190,7 +190,7 @@ class LeagueTypeTournament extends LeagueType {
 			case 'semis_consolation_five':
 				return [2, 2, 2];
 			case 'semis_double_elimination_five':
-				return [3, 3, 3];
+				return [2, 1, 2, 1, 1, 2];
 			case 'semis_minimal_five':
 				return [2, 2];
 			case 'semis_double_elimination_six':
