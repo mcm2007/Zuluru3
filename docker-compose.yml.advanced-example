@@ -25,7 +25,6 @@
 # connection for this docker-compose file would be `zuluru_mariadb:3306`. Since
 # this connection uses internal Docker networking, you won't need to explictly
 # reference the IP or any external domain name you may be using.
-version: "3.7"
 services:
   mariadb:
     container_name: zuluru_mariadb
