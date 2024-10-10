@@ -297,8 +297,14 @@ $options['options'] = [
 	],
 
 	'currency' => [
+		'EUR' => __('Euro'),
 		'CAD' => __('Canadian'),
 		'USD' => __('USA'),
+		'GBP' => __('British Pound'),
+		'JPY' => __('Japanese Yen'),
+		'AUD' => __('Australian Dollar'),
+		'CHF' => __('Swiss Franc'),
+
 	],
 
 	'units' => [
